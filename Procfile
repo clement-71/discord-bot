@@ -1,1 +1,1 @@
-worker: node app.py
+worker: node index.js
